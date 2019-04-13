@@ -1,0 +1,5 @@
+git status
+git add SVM.ipynb
+git commit -m "This is First Commit"
+git push origin master
+
